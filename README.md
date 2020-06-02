@@ -2,21 +2,35 @@
 
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    
     "cookie-session": "^1.4.0",
+    
     "express": "^4.17.1",
+    
     "jsonwebtoken": "^8.5.1",
+    
     "mongodb": "^3.5.7",
+    
     "mongoose": "^5.9.14",
+    
     "multer": "^1.4.2",
+    
     "passport": "^0.4.1",
+    
     "passport-google-oauth2": "^0.2.0",
+    
     "sharp": "^0.25.2",
+    
     "validator": "^13.0.0"
   },
+  
   "devDependencies": {
     "env-cmd": "^10.1.0",
+    
     "jest": "^26.0.1",
+    
     "nodemon": "^2.0.4",
+    
     "supertest": "^4.0.2"
   }
   
